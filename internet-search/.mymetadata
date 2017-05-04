@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="internet-search"
+  id="myeclipse.1387983633810"
+  context-root="/internet-web"
+  j2ee-spec="6.0"
+  archive="internet-search.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
